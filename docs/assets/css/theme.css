@@ -391,6 +391,10 @@ aside#__sidebar .card-image-sidebar-rounded {
   border-radius: 6px 6px 0 0;
 }
 
+aside#__sidebar .card-image-sidebar-rounded {
+  border-radius: 6px 6px 0 0;
+}
+
 /* Make sidebar a flex container when banner image exists */
 aside#__sidebar:has(.sidebar-nav > [class*="card-image-sidebar"]:first-child) {
     display: flex;
