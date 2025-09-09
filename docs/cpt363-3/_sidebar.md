@@ -1,4 +1,5 @@
 <img data-src="cpt363-3/images/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg" alt="CPT363-3 Header" class="card-image-sidebar-rounded sidebar-nav">
+
 **CPT363-3**
 
 - [Home](cpt363-3/home)
